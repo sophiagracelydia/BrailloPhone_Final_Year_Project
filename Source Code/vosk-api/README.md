@@ -19,7 +19,3 @@ transcription for lectures and interviews.
 Vosk scales from small devices like Raspberry Pi or Android smartphone to
 big clusters.
 
-# Documentation
-
-For installation instructions, examples and documentation visit [Vosk
-Website](https://alphacephei.com/vosk).
